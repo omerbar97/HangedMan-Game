@@ -1,6 +1,7 @@
 # <h1>HangedManGame</h1>
-<p>Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
 
+<h4> this is one of my first project from my B.A in the 'introduction to Computer Science' course.</h4>
+<p>Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
 You will be presented with a number of blank spaces representing the missing letters you need to find.
 Use the keyboard to guess a letter (I recommend starting with vowels).
 If your chosen letter exists in the answer, then all places in the answer where that letter appear will be revealed.
@@ -9,4 +10,6 @@ Be warned, every time you guess a letter wrong you loose a life and the hangman 
 Solve the puzzle before the hangman dies.
 If you need any clue, just press "*"</p>
 
-<img src=”“/>
+<img src="./hangedman.gif"/>
+
+<h3>Have Fun Playing!</h3>
