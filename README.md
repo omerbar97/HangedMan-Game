@@ -1,4 +1,5 @@
 # <h1>HangedManGame</h1>
+the old classic hangedman game made in C
 
 <h4> this is one of my first project from my B.A in the 'introduction to Computer Science' course.</h4>
 <p>Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
